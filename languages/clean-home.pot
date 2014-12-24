@@ -1,0 +1,202 @@
+# Copyright (C) 2014 Mid Mo Design
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Clean Home 1.2.0-wpcom\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/clean-home\n"
+"POT-Creation-Date: 2014-07-02 03:27:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:12 image.php:89 index.php:25 page.php:33 single.php:38
+msgid "Not found"
+msgstr ""
+
+#: 404.php:13 image.php:90 index.php:26 page.php:34 single.php:39
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:23 content.php:9 image.php:29 image.php:40 single.php:21
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:23
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:23 content.php:9 image.php:29 image.php:40 single.php:21
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:43
+msgid "Comments are closed."
+msgstr ""
+
+#: content.php:9 single.php:21
+msgid "Posted:"
+msgstr ""
+
+#: content.php:9 single.php:21
+msgid "Author:"
+msgstr ""
+
+#: content.php:9 single.php:21
+msgid "|"
+msgstr ""
+
+#: content.php:9 single.php:21
+msgid "Filed under:"
+msgstr ""
+
+#: content.php:9 page.php:16 single.php:21
+msgid "Edit"
+msgstr ""
+
+#: content.php:9 image.php:29 image.php:40 single.php:21
+msgid "1 Comment"
+msgstr ""
+
+#: content.php:10
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: content.php:11
+msgid "Page:"
+msgstr ""
+
+#: footer.php:9
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:229
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:243
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:245
+msgid "The primary widget area"
+msgstr ""
+
+#: functions.php:252
+msgid "Header"
+msgstr ""
+
+#: functions.php:254
+msgid "Header widget area with big font size."
+msgstr ""
+
+#: functions.php:337
+msgid "Page %s"
+msgstr ""
+
+#: image.php:21
+msgid ""
+"<b>Posted:</b> %1$s | <b>Dimensions:</b> <a href=\"%2$s\" title=\"Link to "
+"full-size image\">%3$s &times; %4$s</a> | <b>Gallery:</b> <a href=\"%5$s\" "
+"title=\"Return to %6$s\" rel=\"gallery\">%6$s</a>"
+msgstr ""
+
+#: image.php:35
+msgid ""
+"<b>Dimensions:</b> <a href=\"%1$s\" title=\"Link to full-size image\">%2$s "
+"&times; %3$s</a>"
+msgstr ""
+
+#: inc/theme-options.php:27 inc/theme-options.php:66
+msgid "Theme Options"
+msgstr ""
+
+#: inc/theme-options.php:37
+msgid "Light"
+msgstr ""
+
+#: inc/theme-options.php:41
+msgid "Dark"
+msgstr ""
+
+#: inc/theme-options.php:45
+msgid "Snowy"
+msgstr ""
+
+#: inc/theme-options.php:49
+msgid "Sunny"
+msgstr ""
+
+#: inc/theme-options.php:69
+msgid "Options saved"
+msgstr ""
+
+#: inc/theme-options.php:83 inc/theme-options.php:85
+msgid "Color Schemes"
+msgstr ""
+
+#: inc/theme-options.php:117
+msgid "Save Options"
+msgstr ""
+
+#: index.php:19
+msgid "&larr; Older Entries"
+msgstr ""
+
+#: index.php:20
+msgid "Newer Entries &rarr;"
+msgstr ""
+
+#: page.php:25
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: page.php:26
+msgid "Newer Entries &raquo;"
+msgstr ""
+
+#: sidebar.php:14
+msgid "Recent Posts"
+msgstr ""
+
+#: sidebar.php:26
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:33
+msgid "Categories"
+msgstr ""
+
+#: single.php:32
+msgid "&larr; %link"
+msgstr ""
+
+#: single.php:33
+msgid "%link &rarr;"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Clean Home"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.com/themes/clean-home/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A clean looking, minimal design, offering two widgets areas and four color "
+"schemes. This theme also features custom background and header "
+"functionality. With a traditional look, yet a modern finish, plus several "
+"customizations options Clean Home comes as a flexible option for your site."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mid Mo Design"
+msgstr ""

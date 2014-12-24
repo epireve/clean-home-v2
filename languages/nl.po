@@ -1,0 +1,178 @@
+# Translation of Clean Home in Dutch
+# This file is distributed under the same license as the Clean Home package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2014-06-01 14:47:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Clean Home\n"
+
+#: single.php:33
+msgid "%link &rarr;"
+msgstr "%link &rarr;"
+
+msgid "A clean looking, minimal design, offering two widgets areas and four color schemes. This theme also features custom background and header functionality. With a traditional look, yet a modern finish, plus several customizations options Clean Home comes as a flexible option for your site."
+msgstr ""
+
+#: single.php:32
+msgid "&larr; %link"
+msgstr "&larr; %link"
+
+#: sidebar.php:33
+msgid "Categories"
+msgstr "Categorie&#235;n"
+
+#: sidebar.php:26
+msgid "Archives"
+msgstr "Archief"
+
+#: sidebar.php:14
+msgid "Recent Posts"
+msgstr "Meest recente berichten"
+
+#: page.php:26
+msgid "Newer Entries &raquo;"
+msgstr "Nieuwere berichten &raquo;"
+
+#: page.php:25
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Oudere berichten"
+
+#: index.php:19
+msgid "&larr; Older Entries"
+msgstr "&larr; Oudere inzendingen"
+
+#: index.php:20
+msgid "Newer Entries &rarr;"
+msgstr "Nieuwere berichten &rarr;"
+
+#: inc/theme-options.php:117
+msgid "Save Options"
+msgstr "Bewaar opties"
+
+#: inc/theme-options.php:69
+msgid "Options saved"
+msgstr "Opties bewaard"
+
+#: inc/theme-options.php:83 inc/theme-options.php:85
+msgid "Color Schemes"
+msgstr "Kleurenschema's"
+
+#: inc/theme-options.php:45
+msgid "Snowy"
+msgstr "Besneeuwd"
+
+#: inc/theme-options.php:49
+msgid "Sunny"
+msgstr "Zonnig"
+
+#: inc/theme-options.php:41
+msgid "Dark"
+msgstr "Donker"
+
+#: inc/theme-options.php:37
+msgid "Light"
+msgstr "Licht"
+
+#: inc/theme-options.php:27 inc/theme-options.php:66
+msgid "Theme Options"
+msgstr "Thema opties"
+
+#: image.php:21
+msgid "<b>Posted:</b> %1$s | <b>Dimensions:</b> <a href=\"%2$s\" title=\"Link to full-size image\">%3$s &times; %4$s</a> | <b>Gallery:</b> <a href=\"%5$s\" title=\"Return to %6$s\" rel=\"gallery\">%6$s</a>"
+msgstr "<b>Posted:</b> %1$s | <b>Dimensions:</b> <a href=\"%2$s\" title=\"Link to full-size image\">%3$s × volledige grootte %4$s</a> | <b>Gallery:</b> <a href=\"%5$s\" title=\"Return to %6$s\" rel=\"gallery\">%6$s</a>"
+
+#: image.php:35
+msgid "<b>Dimensions:</b> <a href=\"%1$s\" title=\"Link to full-size image\">%2$s &times; %3$s</a>"
+msgstr "<b> Afmetingen:</b> <a href=\"%1$s\" title=\"Link naar full-size beeld\">%2$s ×%3$s </a>"
+
+#: functions.php:254
+msgid "Header widget area with big font size."
+msgstr "Header widget gebied met grote lettergrootte"
+
+#: functions.php:337
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: functions.php:252
+msgid "Header"
+msgstr "Header"
+
+#: functions.php:245
+msgid "The primary widget area"
+msgstr "De primaire widgetruimte"
+
+#: functions.php:243
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:229
+msgid "Primary Navigation"
+msgstr "Primaire navigatie"
+
+#: footer.php:9
+msgid "Theme: %1$s by %2$s."
+msgstr "Thema: %1$s door %2$s."
+
+#: content.php:11
+msgid "Page:"
+msgstr "Pagina:"
+
+#: content.php:9 image.php:29 image.php:40 single.php:21
+msgid "1 Comment"
+msgstr ""
+
+#: content.php:10
+msgid "Read the rest of this entry &raquo;"
+msgstr "Lees de rest van dit artikel &raquo;"
+
+#: content.php:9 page.php:16 single.php:21
+msgid "Edit"
+msgstr "Bewerken"
+
+#: content.php:9 single.php:21
+msgid "Filed under:"
+msgstr "Hoort bij:"
+
+#: content.php:9 single.php:21
+msgid "|"
+msgstr "Ik"
+
+#: content.php:9 single.php:21
+msgid "Posted:"
+msgstr "Geplaatst op:"
+
+#: content.php:9 single.php:21
+msgid "Author:"
+msgstr "Auteur:"
+
+#: comments.php:43
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: comments.php:23
+msgid "One Comment"
+msgstr "een reactie"
+
+#: comments.php:23 content.php:9 image.php:29 image.php:40 single.php:21
+msgid "% Comments"
+msgstr "% reacties"
+
+#: comments.php:23 content.php:9 image.php:29 image.php:40 single.php:21
+msgid "Leave a comment"
+msgstr "Een reactie plaatsen"
+
+#: comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dit bericht is beveiligd met een wachtwoord. Voer het wachtwoord in om de reacties te bekijken."
+
+#: 404.php:13 image.php:90 index.php:26 page.php:34 single.php:39
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Excuses, maar u bent op zoek naar iets wat niet bestaat."
+
+#: 404.php:12 image.php:89 index.php:25 page.php:33 single.php:38
+msgid "Not found"
+msgstr "Niet gevonden"

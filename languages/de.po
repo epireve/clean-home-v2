@@ -1,0 +1,178 @@
+# Translation of Clean Home in German
+# This file is distributed under the same license as the Clean Home package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2014-06-24 13:20:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Clean Home\n"
+
+#: single.php:33
+msgid "%link &rarr;"
+msgstr "%link &rarr;"
+
+msgid "A clean looking, minimal design, offering two widgets areas and four color schemes. This theme also features custom background and header functionality. With a traditional look, yet a modern finish, plus several customizations options Clean Home comes as a flexible option for your site."
+msgstr ""
+
+#: single.php:32
+msgid "&larr; %link"
+msgstr "&larr; %link"
+
+#: sidebar.php:33
+msgid "Categories"
+msgstr "Kategorien"
+
+#: sidebar.php:26
+msgid "Archives"
+msgstr "Archiv"
+
+#: sidebar.php:14
+msgid "Recent Posts"
+msgstr "Aktuelle Beiträge"
+
+#: page.php:26
+msgid "Newer Entries &raquo;"
+msgstr "Neuere Einträge &raquo;"
+
+#: page.php:25
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Ältere Einträge"
+
+#: index.php:19
+msgid "&larr; Older Entries"
+msgstr "&larr; Ältere Beiträge"
+
+#: index.php:20
+msgid "Newer Entries &rarr;"
+msgstr "Neuere Beiträge &rarr;"
+
+#: inc/theme-options.php:117
+msgid "Save Options"
+msgstr "Einstellungen speichern"
+
+#: inc/theme-options.php:69
+msgid "Options saved"
+msgstr "Einstellungen gespeichert"
+
+#: inc/theme-options.php:83 inc/theme-options.php:85
+msgid "Color Schemes"
+msgstr "Farbpaletten"
+
+#: inc/theme-options.php:45
+msgid "Snowy"
+msgstr "Verschneit"
+
+#: inc/theme-options.php:49
+msgid "Sunny"
+msgstr "Sonnig"
+
+#: inc/theme-options.php:41
+msgid "Dark"
+msgstr "Dunkel"
+
+#: inc/theme-options.php:37
+msgid "Light"
+msgstr "Hell"
+
+#: inc/theme-options.php:27 inc/theme-options.php:66
+msgid "Theme Options"
+msgstr "Theme-Optionen"
+
+#: image.php:21
+msgid "<b>Posted:</b> %1$s | <b>Dimensions:</b> <a href=\"%2$s\" title=\"Link to full-size image\">%3$s &times; %4$s</a> | <b>Gallery:</b> <a href=\"%5$s\" title=\"Return to %6$s\" rel=\"gallery\">%6$s</a>"
+msgstr "<b>Veröffentlicht:</b> %1$s | <b>Auflösung: </b><a href=\"%2$s\" title=\"Link zu Bild in voller Größe\">%3$s &times; %4$s</a> | <b>Galerie: </b><a href=\"%5$s\" title=\"Zurück zu %6$s\" rel=\"gallery\">%6$s</a>"
+
+#: image.php:35
+msgid "<b>Dimensions:</b> <a href=\"%1$s\" title=\"Link to full-size image\">%2$s &times; %3$s</a>"
+msgstr "<b>Auflösung: </b><a href=\"%1$s\" title=\"Link zu Bild in voller Größe\">%2$s &times; %3$s</a>"
+
+#: functions.php:254
+msgid "Header widget area with big font size."
+msgstr "Header-Widget-Bereich mit großer Schriftgröße."
+
+#: functions.php:337
+msgid "Page %s"
+msgstr "Seite %s"
+
+#: functions.php:252
+msgid "Header"
+msgstr "Header"
+
+#: functions.php:245
+msgid "The primary widget area"
+msgstr "Der primäre Widgetbereich"
+
+#: functions.php:243
+msgid "Sidebar"
+msgstr "Seitenleiste"
+
+#: functions.php:229
+msgid "Primary Navigation"
+msgstr "Primäre Navigation"
+
+#: footer.php:9
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s von %2$s."
+
+#: content.php:11
+msgid "Page:"
+msgstr "Seite:"
+
+#: content.php:9 image.php:29 image.php:40 single.php:21
+msgid "1 Comment"
+msgstr "Ein Kommentar"
+
+#: content.php:10
+msgid "Read the rest of this entry &raquo;"
+msgstr "Den Rest des Beitrags lesen &raquo;"
+
+#: content.php:9 page.php:16 single.php:21
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: content.php:9 single.php:21
+msgid "Filed under:"
+msgstr "Abgelegt unter:"
+
+#: content.php:9 single.php:21
+msgid "|"
+msgstr "|"
+
+#: content.php:9 single.php:21
+msgid "Posted:"
+msgstr "Veröffentlicht:"
+
+#: content.php:9 single.php:21
+msgid "Author:"
+msgstr "Autor:"
+
+#: comments.php:43
+msgid "Comments are closed."
+msgstr "Die Kommentarfunktion ist geschlossen."
+
+#: comments.php:23
+msgid "One Comment"
+msgstr "ein Kommentar"
+
+#: comments.php:23 content.php:9 image.php:29 image.php:40 single.php:21
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#: comments.php:23 content.php:9 image.php:29 image.php:40 single.php:21
+msgid "Leave a comment"
+msgstr "Hinterlasse einen Kommentar"
+
+#: comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dieser Beitrag ist geschützt. Um die Kommentare zu sehen, gib bitte das Passwort ein."
+
+#: 404.php:13 image.php:90 index.php:26 page.php:34 single.php:39
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Du suchst gerade etwas, das leider nicht hier ist."
+
+#: 404.php:12 image.php:89 index.php:25 page.php:33 single.php:38
+msgid "Not found"
+msgstr "Nicht gefunden"

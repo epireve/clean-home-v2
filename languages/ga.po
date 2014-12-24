@@ -1,0 +1,178 @@
+# Translation of Clean Home in Irish
+# This file is distributed under the same license as the Clean Home package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2014-06-01 14:47:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n<11 ? 3 : 4;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Clean Home\n"
+
+#: single.php:33
+msgid "%link &rarr;"
+msgstr "%link &rarr;"
+
+msgid "A clean looking, minimal design, offering two widgets areas and four color schemes. This theme also features custom background and header functionality. With a traditional look, yet a modern finish, plus several customizations options Clean Home comes as a flexible option for your site."
+msgstr ""
+
+#: single.php:32
+msgid "&larr; %link"
+msgstr "&larr; %link"
+
+#: sidebar.php:33
+msgid "Categories"
+msgstr "Ranganna"
+
+#: sidebar.php:26
+msgid "Archives"
+msgstr "Cartlanna"
+
+#: sidebar.php:14
+msgid "Recent Posts"
+msgstr "Ailt Nuafhoilsithe"
+
+#: page.php:26
+msgid "Newer Entries &raquo;"
+msgstr "Chun Tosaigh &raquo;"
+
+#: page.php:25
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Chun Deiridh"
+
+#: index.php:19
+msgid "&larr; Older Entries"
+msgstr "&larr; Chun Deiridh"
+
+#: index.php:20
+msgid "Newer Entries &rarr;"
+msgstr "Chun Tosaigh &rarr;"
+
+#: inc/theme-options.php:117
+msgid "Save Options"
+msgstr "Sábháil na Roghanna"
+
+#: inc/theme-options.php:69
+msgid "Options saved"
+msgstr "Sábháladh na roghanna"
+
+#: inc/theme-options.php:83 inc/theme-options.php:85
+msgid "Color Schemes"
+msgstr "Scéimeanna Dathanna"
+
+#: inc/theme-options.php:45
+msgid "Snowy"
+msgstr "Sneachtmhar"
+
+#: inc/theme-options.php:49
+msgid "Sunny"
+msgstr "Grianmhar"
+
+#: inc/theme-options.php:41
+msgid "Dark"
+msgstr "Dorcha"
+
+#: inc/theme-options.php:37
+msgid "Light"
+msgstr "Geal"
+
+#: inc/theme-options.php:27 inc/theme-options.php:66
+msgid "Theme Options"
+msgstr "Roghanna Téama"
+
+#: image.php:21
+msgid "<b>Posted:</b> %1$s | <b>Dimensions:</b> <a href=\"%2$s\" title=\"Link to full-size image\">%3$s &times; %4$s</a> | <b>Gallery:</b> <a href=\"%5$s\" title=\"Return to %6$s\" rel=\"gallery\">%6$s</a>"
+msgstr "<b>Foilsithe:</b> %1$s | <b>Tomhaiseanna:</b> <a href=\"%2$s\" title=\"Nasc leis an íomhá lánmhéide\">%3$s &times; %4$s</a> | <b>Dánlann:</b> <a href=\"%5$s\" title=\"Fill ar %6$s\" rel=\"gallery\">%6$s</a>"
+
+#: image.php:35
+msgid "<b>Dimensions:</b> <a href=\"%1$s\" title=\"Link to full-size image\">%2$s &times; %3$s</a>"
+msgstr "<b>Tomhaiseanna:</b> <a href=\"%1$s\" title=\"Nasc leis an íomhá lánmhéide\">%2$s &times; %3$s</a>"
+
+#: functions.php:254
+msgid "Header widget area with big font size."
+msgstr "Limistéar giúirléidí ceanntáisc a bhfuil téacs mór ann."
+
+#: functions.php:337
+msgid "Page %s"
+msgstr "Leathanach %s"
+
+#: functions.php:252
+msgid "Header"
+msgstr "Ceanntásc"
+
+#: functions.php:245
+msgid "The primary widget area"
+msgstr "An mórlimistéar giúirléidí"
+
+#: functions.php:243
+msgid "Sidebar"
+msgstr "Taobh-Bharra"
+
+#: functions.php:229
+msgid "Primary Navigation"
+msgstr "Príomhthreoraíocht"
+
+#: footer.php:9
+msgid "Theme: %1$s by %2$s."
+msgstr "Téama: %1$s le %2$s."
+
+#: content.php:11
+msgid "Page:"
+msgstr "Leathanach: "
+
+#: content.php:9 image.php:29 image.php:40 single.php:21
+msgid "1 Comment"
+msgstr ""
+
+#: content.php:10
+msgid "Read the rest of this entry &raquo;"
+msgstr "Léigh an chuid eile den alt seo &raquo;"
+
+#: content.php:9 page.php:16 single.php:21
+msgid "Edit"
+msgstr "Eagar"
+
+#: content.php:9 single.php:21
+msgid "Filed under:"
+msgstr "Comhdaithe faoi:"
+
+#: content.php:9 single.php:21
+msgid "|"
+msgstr "|"
+
+#: content.php:9 single.php:21
+msgid "Posted:"
+msgstr "Foilsithe:"
+
+#: content.php:9 single.php:21
+msgid "Author:"
+msgstr "Údar:"
+
+#: comments.php:43
+msgid "Comments are closed."
+msgstr "Freagraí dúnta."
+
+#: comments.php:23
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:23 content.php:9 image.php:29 image.php:40 single.php:21
+msgid "% Comments"
+msgstr "Freagraí: %"
+
+#: comments.php:23 content.php:9 image.php:29 image.php:40 single.php:21
+msgid "Leave a comment"
+msgstr "Freagra"
+
+#: comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Tá an t-alt seo faoi chosaint ag focal faire. Cuir isteach an focal faire go bhfeice tú na freagraí."
+
+#: 404.php:13 image.php:90 index.php:26 page.php:34 single.php:39
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Níl an rud atá tú a thóraíocht le fáil."
+
+#: 404.php:12 image.php:89 index.php:25 page.php:33 single.php:38
+msgid "Not found"
+msgstr "Diabhal Toradh"

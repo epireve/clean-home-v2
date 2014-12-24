@@ -1,0 +1,178 @@
+# Translation of Clean Home in Bosnian
+# This file is distributed under the same license as the Clean Home package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2014-06-01 14:47:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Clean Home\n"
+
+#: single.php:33
+msgid "%link &rarr;"
+msgstr "%link &rarr;"
+
+msgid "A clean looking, minimal design, offering two widgets areas and four color schemes. This theme also features custom background and header functionality. With a traditional look, yet a modern finish, plus several customizations options Clean Home comes as a flexible option for your site."
+msgstr ""
+
+#: single.php:32
+msgid "&larr; %link"
+msgstr "&larr; %link"
+
+#: sidebar.php:33
+msgid "Categories"
+msgstr "Kategorije"
+
+#: sidebar.php:26
+msgid "Archives"
+msgstr "Arhive"
+
+#: sidebar.php:14
+msgid "Recent Posts"
+msgstr "Najnoviji članci"
+
+#: page.php:26
+msgid "Newer Entries &raquo;"
+msgstr "Noviji unosi &raquo;"
+
+#: page.php:25
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Stariji unosi"
+
+#: index.php:19
+msgid "&larr; Older Entries"
+msgstr "&larr; Stariji unosi"
+
+#: index.php:20
+msgid "Newer Entries &rarr;"
+msgstr "Noviji unosi &rarr;"
+
+#: inc/theme-options.php:117
+msgid "Save Options"
+msgstr "Sačuvaj opcije"
+
+#: inc/theme-options.php:69
+msgid "Options saved"
+msgstr "Opcije sačuvane"
+
+#: inc/theme-options.php:83 inc/theme-options.php:85
+msgid "Color Schemes"
+msgstr ""
+
+#: inc/theme-options.php:45
+msgid "Snowy"
+msgstr "Snježno"
+
+#: inc/theme-options.php:49
+msgid "Sunny"
+msgstr "Sunčano"
+
+#: inc/theme-options.php:41
+msgid "Dark"
+msgstr "Tamna"
+
+#: inc/theme-options.php:37
+msgid "Light"
+msgstr "Svijetla"
+
+#: inc/theme-options.php:27 inc/theme-options.php:66
+msgid "Theme Options"
+msgstr "Opcije teme"
+
+#: image.php:21
+msgid "<b>Posted:</b> %1$s | <b>Dimensions:</b> <a href=\"%2$s\" title=\"Link to full-size image\">%3$s &times; %4$s</a> | <b>Gallery:</b> <a href=\"%5$s\" title=\"Return to %6$s\" rel=\"gallery\">%6$s</a>"
+msgstr "<b>Objavljeno:</b> %1$s | <b>Dimenzije:</b> <a href=\"%2$s\" title=\"Link ka slici pune veličine\">%3$s &times; %4$s</a> | <b>Galerija:</b> <a href=\"%5$s\" title=\"Nazad na %6$s\" rel=\"gallery\">%6$s</a>"
+
+#: image.php:35
+msgid "<b>Dimensions:</b> <a href=\"%1$s\" title=\"Link to full-size image\">%2$s &times; %3$s</a>"
+msgstr "<b>Dimenzije:</b> <a href=\"%1$s\" title=\"Link ka slici pune veličine\">%2$s &times; %3$s</a>"
+
+#: functions.php:254
+msgid "Header widget area with big font size."
+msgstr ""
+
+#: functions.php:337
+msgid "Page %s"
+msgstr "Stranica %s"
+
+#: functions.php:252
+msgid "Header"
+msgstr "Zaglavlje"
+
+#: functions.php:245
+msgid "The primary widget area"
+msgstr "Primarni prostor dodatka"
+
+#: functions.php:243
+msgid "Sidebar"
+msgstr "Bočna traka"
+
+#: functions.php:229
+msgid "Primary Navigation"
+msgstr "Glavna navigacija"
+
+#: footer.php:9
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s od %2$s."
+
+#: content.php:11
+msgid "Page:"
+msgstr "Stranica:"
+
+#: content.php:9 image.php:29 image.php:40 single.php:21
+msgid "1 Comment"
+msgstr ""
+
+#: content.php:10
+msgid "Read the rest of this entry &raquo;"
+msgstr "Pročitaj ostatak ovog unosa &raquo;"
+
+#: content.php:9 page.php:16 single.php:21
+msgid "Edit"
+msgstr "Uredi"
+
+#: content.php:9 single.php:21
+msgid "Filed under:"
+msgstr "Zavedeno u:"
+
+#: content.php:9 single.php:21
+msgid "|"
+msgstr ""
+
+#: content.php:9 single.php:21
+msgid "Posted:"
+msgstr "Objavljeno:"
+
+#: content.php:9 single.php:21
+msgid "Author:"
+msgstr "Autor:"
+
+#: comments.php:43
+msgid "Comments are closed."
+msgstr "Komentari su isključeni."
+
+#: comments.php:23
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:23 content.php:9 image.php:29 image.php:40 single.php:21
+msgid "% Comments"
+msgstr "% komentara"
+
+#: comments.php:23 content.php:9 image.php:29 image.php:40 single.php:21
+msgid "Leave a comment"
+msgstr "Komentariši"
+
+#: comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Ovaj članak je zaštićen šifrom. Unesite šifru da biste vidjeli komentare."
+
+#: 404.php:13 image.php:90 index.php:26 page.php:34 single.php:39
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Žao nam je, ali tražite nešto što se ne nalazi ovdje."
+
+#: 404.php:12 image.php:89 index.php:25 page.php:33 single.php:38
+msgid "Not found"
+msgstr "Nije pronađeno"
