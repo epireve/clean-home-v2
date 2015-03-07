@@ -417,8 +417,8 @@ table td {
 }
 .hentry img,
 body.attachment .navigation img {
-	background: #eee;
-	border: 3px solid #ddd;
+	/*background: #eee;
+	border: 3px solid #ddd;*/
 	margin: 0px 0px 5px;
 	padding: 5px;
 	-webkit-border-radius: 4px;
