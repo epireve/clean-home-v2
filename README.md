@@ -5,7 +5,7 @@ I tried to find the original source, but could not find it anywhere. So I put it
 I used the current theme in my site. View the [demo here].
 
 ### Version
-1.0
+1.2.2
 
 ### Todo's
 
